@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/drawable-nodpi_veilocity_icon_foreground.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/drawable-nodpi/veilocity_icon_foreground.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "org.veilocity.arkhive.app-release-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "org.veilocity.arkhive.app-main-24:/mipmap-xhdpi/ic_launcher.png"
+    }
+]

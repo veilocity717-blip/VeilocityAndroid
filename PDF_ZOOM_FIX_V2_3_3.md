@@ -1,0 +1,1 @@
+Veilocity v2.3.3: Fix PDF zoom plateau caused by bitmap memory cap. Rendered bitmap stays bounded, while the PDF image display size grows at every zoom step (up to 800%). Uses FIT_XY so Android does not shrink the image back to the bitmap size. At high zoom levels, image sharpness is limited by the memory-safe render resolution. Multiple bookmarks and page jump retained.

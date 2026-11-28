@@ -1,0 +1,18 @@
+plugins { id 'com.android.application' }
+android { namespace 'org.veilocity.arkhive'; compileSdk 35
+    defaultConfig { applicationId 'org.veilocity.arkhive'; minSdk 26; targetSdk 28; versionCode 321; versionName '2.80.41' }
+    // Work around release lint crash observed with the current JDK/AGP environment.
+    // This does not disable Java compilation or APK packaging.
+    lint {
+        checkReleaseBuilds false
+    }
+    applicationVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = "Veilocity-v${variant.versionName}-${variant.buildType.name}.apk"
+        }
+    }
+}
+
+
+// Downloadable on-device translation models (first use requires internet).
+dependencies { implementation 'com.google.mlkit:translate:17.0.3' }

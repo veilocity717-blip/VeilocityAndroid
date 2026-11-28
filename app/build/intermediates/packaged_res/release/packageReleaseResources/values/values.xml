@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="veilocity_icon_background">#DEB395</color>
+    <string name="app_name">Veilocity</string>
+</resources>

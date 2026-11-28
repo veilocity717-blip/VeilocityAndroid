@@ -1,0 +1,4 @@
+#Sat Nov 28 14:07:31 EST 2026
+base.0=/mnt/VAULT/1_Testimony/1_Android_Wrapper/VeilocityAndroid/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
